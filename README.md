@@ -1,4 +1,4 @@
-# pGina Documentation Pages
+# pGina Documentation
 
-This branch contains the documentation web pages.  To build the web pages,
-you'll need Jekyll.
+This is the repository for the pGina documentation.
+
